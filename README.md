@@ -1,6 +1,6 @@
-## Title: Round2 Electric Boogaloo
-## Programer: Julian Wong
-## Last Updated: June 18th, 2020
+### Title: Round2 Electric Boogaloo
+### Programer: Julian Wong
+### Last Updated: June 18th, 2020
 
 ## Description:
 Round2 Electric Boogaloo is a 2d side view pvp fighting game designed for two players. The player is able to choose between a ranged or melee champion. The power up appears 30 secs from start or from when the last power up is used (player lives for 10 secs or dies). The power up doubles damage.
